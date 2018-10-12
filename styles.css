@@ -1,8 +1,7 @@
 body {
   color: white;
-  background-color: #333;
   font-size: 100%;
-  font-family: 'Satisfy', 'Arial';
+  font-family: 'Arial';
   margin-left: 80px;
   margin-right: 80px;
     border: 1px solid white;
@@ -14,4 +13,15 @@ body {
 }
 p {
     background-color: black
+}
+h1 {
+    color: red;
+    font-family: Helvetica;
+}
+h2 {
+    color: red;
+    font-family: Arial;
+}
+.Link { color: lightgray
+
 }
